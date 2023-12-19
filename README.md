@@ -1,4 +1,4 @@
-##Solving Traveling Salesman Problem using Genetic Algorithms
+Solving Traveling Salesman Problem using Genetic Algorithms#
 
 
 From Nature of Code ,
